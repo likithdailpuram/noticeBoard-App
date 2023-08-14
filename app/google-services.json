@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901813503219",
+    "project_id": "noticeboard-1fbc2",
+    "storage_bucket": "noticeboard-1fbc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901813503219:android:f83c6db3a1a1c376946386",
+        "android_client_info": {
+          "package_name": "com.example.noticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901813503219-r0baet4pgbhlac4l3b9nk6og2uiq9rqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noticeboard",
+            "certificate_hash": "aef64589999de20e0b4e312dab8641276a15ce4e"
+          }
+        },
+        {
+          "client_id": "901813503219-r75m9qsjc2enerfro5onnmo25grtir0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZCcFEW03Q1YRk_fpwNQIXFq5e3eNzyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901813503219-r75m9qsjc2enerfro5onnmo25grtir0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
